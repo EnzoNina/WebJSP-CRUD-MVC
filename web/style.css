@@ -1,0 +1,11 @@
+.cabecera{
+    background: aqua;    
+    font-style: inherit;
+    font-size: 19px;
+    text-align: center;
+}
+table{    
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+}
